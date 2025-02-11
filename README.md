@@ -19,10 +19,10 @@ The website showcases projects I have worked on in front-end development, highli
 - Interactive Projects: The projects section showcases three projects that you can interact with. Each project has its own details and features to explore.
   
 ## Preview
-<img src="" width="850" />
+<img src="https://github.com/Deepakchamola/My_Portfolio/blob/26b28cbb24a06b81df2e9d4e69692e1faa422be9/My_Portfolio.png" width="850" />
 
 ## Live Site
-View my hosted portfolio website here: [View Live]()
+View my hosted portfolio website here: [View Live](https://my-portfolio-vert-alpha-14.vercel.app/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
