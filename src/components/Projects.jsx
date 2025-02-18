@@ -52,6 +52,23 @@ const ProjectData = [
     ],
     link: "https://deepakchamola.github.io/Obys_Agency/",
   },
+  {
+    image: img4,
+    title: "ExoApe - Clone",
+    description:
+      "A clone of the ExoApe website built for frontend practice. This project utilizes modern web technologies to replicate the design of the ExoApe website. It also includes animations for an enhanced user experience.",
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind CSS",
+      "ReactJS",
+      "Framer motion",
+      "GSAP",
+      "ScrollTrigger",
+    ],
+    link: "https://exo-ape-clone-three.vercel.app/",
+  },
 ];
 
 const ScrollReveal = ({ children }) => {
