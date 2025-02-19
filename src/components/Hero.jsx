@@ -44,7 +44,7 @@ function Hero() {
             initial={{ x: 100, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.6, delay: 0.8 }}
-            className="text-sm text-zinc-300 md:text-base text-pretty px-5"
+            className="text-md text-zinc-300 md:text-base text-pretty px-2"
           >
             Hello! I'm a passionate and motivated front-end web developer
             currently honing my skills in the world of web development. As a
@@ -55,8 +55,6 @@ function Hero() {
             is on creating user-friendly, visually appealing websites that not
             only look great but also perform seamlessly. I love solving problems
             and learning new techniques to bring my ideas to life on the web.
-            I’m always eager to explore new tools and challenges in the frontend
-            development space to improve my craft.
           </motion.p>
         </div>
         
